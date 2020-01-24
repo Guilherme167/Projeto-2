@@ -10,3 +10,28 @@ Como exemplo, poderíamos citar as aplicações no ramo da industria alimentíci
 
 # Manual do programa
 
+Para utilizar este programa é bem simples! Vamos lá o manual.
+
+## Interface do programa
+
+Com a proposta de ser simples e prático, é fácil se familiarizar com o programa: 
+
+!(interface)[]
+
+## Fazendo cadastro
+
+
+# Sensor de carga
+
+## Comunicação serial
+
+
+# Servidor
+
+
+# Informações adicionais
+
+
+
+!()[]
+!(nomeImagem)[link]
