@@ -20,8 +20,13 @@ Com a proposta de ser simples e prático, é fácil se familiarizar com o progra
 
 ## Fazendo cadastro
 
+!(cadastro)[]
+
+!(erro)[]
 
 # Sensor de carga
+
+
 
 ## Comunicação serial
 
@@ -32,6 +37,9 @@ Com a proposta de ser simples e prático, é fácil se familiarizar com o progra
 # Informações adicionais
 
 
+os dados inseridos de nome da empresa podem ser até duas letra, abreviar o nome
+velocidade de transferência
+57600
 
 !()[]
 !(nomeImagem)[link]
